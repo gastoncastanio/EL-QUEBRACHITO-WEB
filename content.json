@@ -15,9 +15,18 @@
     "imagen": "https://images.unsplash.com/photo-1543372552-e3d2d6a5a9d9?w=1200&auto=format&fit=crop&q=80"
   },
   "valores": [
-    { "titulo": "100% Quebracho", "texto": "Sin mezclas, sin rellenos. Traído del norte, transformado en brasa pura." },
-    { "titulo": "Fuego de verdad", "texto": "Madera que entiende el ritmo del asado. Brasa consistente, sin sorpresas." },
-    { "titulo": "Trato con respeto", "texto": "Precio claro, entregas que se cumplen, y la confianza de quienes ya nos eligen." }
+    {
+      "titulo": "100% Quebracho",
+      "texto": "Sin mezclas, sin rellenos. Traído del norte, transformado en brasa pura."
+    },
+    {
+      "titulo": "Fuego de verdad",
+      "texto": "Madera que entiende el ritmo del asado. Brasa consistente, sin sorpresas."
+    },
+    {
+      "titulo": "Trato con respeto",
+      "texto": "Precio claro, entregas que se cumplen, y la confianza de quienes ya nos eligen."
+    }
   ],
   "productos": [
     {
@@ -53,9 +62,21 @@
   ],
   "envios": {
     "zonas": [
-      { "nombre": "Lobos y alrededores", "detalle": "Gilbert, Empalme, Salvador María, Elvira", "tiempo": "Hoy" },
-      { "nombre": "GBA Oeste y Sur", "detalle": "Cañuelas, San Vicente, Las Heras, Mercedes, Luján", "tiempo": "24 hs" },
-      { "nombre": "Interior de Bs. As.", "detalle": "+40 municipios · consultá tu localidad", "tiempo": "48 hs" }
+      {
+        "nombre": "Lobos y alrededores",
+        "detalle": "Gilbert, Empalme, Salvador María, Elvira",
+        "tiempo": "Hoy"
+      },
+      {
+        "nombre": "GBA Oeste y Sur",
+        "detalle": "Cañuelas, San Vicente, Las Heras, Mercedes, Luján",
+        "tiempo": "24 hs"
+      },
+      {
+        "nombre": "Interior de Bs. As.",
+        "detalle": "+40 municipios · consultá tu localidad",
+        "tiempo": "48 hs"
+      }
     ]
   }
 }
